@@ -1,3 +1,3 @@
 # DSA
-Common DSA Problems categorized into potd and topic-wise problems as well.
+Common DSA Problems categorized into topic-wise problems.
 
